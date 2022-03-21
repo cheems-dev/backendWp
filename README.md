@@ -1,0 +1,1 @@
+# Endpoint Simple de Wordpress
